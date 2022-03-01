@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse, tending to the pacification of all unhappy differences, between His Majesty and His Parliament shewing the meanes whereby the same may speedily be done, and that it rests in His Maiesties sole power to effect it : presented to the consideration of all those that love the truth and peace / by a Friend and servant to both.</title>
+            <author>Friend and servant to both.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29779</idno>
+            <idno type="STC">Wing S3587</idno>
+            <idno type="EEBO-CITATION">12244486</idno>
+            <idno type="OCLC">ocm 12244486</idno>
+            <idno type="VID">197345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B29779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E107, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse, tending to the pacification of all unhappy differences, between His Majesty and His Parliament shewing the meanes whereby the same may speedily be done, and that it rests in His Maiesties sole power to effect it : presented to the consideration of all those that love the truth and peace / by a Friend and servant to both.</title>
+                  <author>Friend and servant to both.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:197345:1"/>
+            <pb n="1" facs="tcp:197345:1" rendition="simple:additions"/>
+            <head>A SHORT DISCOVRSE, tending to the Pacification of all unhappy differences, between His Majeſty and His PARLIAMENT.</head>
+            <head type="sub">Shewing the meanes whereby the ſame may ſpeedily be done, and that it reſts in His MAIESTIES ſole power to effect it.</head>
+            <byline>Preſented to the Conſideration of all thoſe that love the Truth and Peace: By a friend and Servant to both.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons of <hi>England</hi> (That great Body) con<g ref="char:EOLhyphen"/>ſiſting of more then ten Millions of living ſoules, having with great ioy and hope waited now full twenty Moneths, for the happie effects of this long deſired Parliament; do now perceive by His Maieſties Declarations to His Parliament, and His preſent proceedings in oppoſition to their Councells, they are like, not only to be fruſtrated of thoſe ioyes and hopes but to have Confuſion and Ruine immediately fall upon His Maieſty, themſelves, and this whole Kingdome by Civill Diſcord: Whereof (<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s living men) they cannot but be ſenſible; and having no better meanes of acceſſe to His Maieſty, are conſtrained in this common way to breath out their Griefes and Feares, hoping in its Paſſage abroad, it may meet with ſome great Man, who (in imita<g ref="char:EOLhyphen"/>tion of him that had Compaſſion upon the Multitude) will convey it into His Maieſties Royall hand, of whoſe goodneſſe His People have had more then 16. yeares experience.</p>
+            <p>That by the wiſdome and iuſtice of His Maieſty, the Fidelity, Loyalty, and Duty of His Parliament, and the bleſſing of God upon both, thoſe viſible miſeries (hanging over this whole Kingdome)
+<pb n="2" facs="tcp:197345:2"/>may ſpeedily be removed and a happie and bleſſed concord renewed and continued betwixt His Maieſtie and His great Councell, the repreſentative body of this Kingdome.</p>
+            <p>The Commons doe obſerve, that His Maieſty in His Declarati<g ref="char:EOLhyphen"/>ons doth declare, His intentions are not only to preſerve His iuſt Prerogative, Rights and Priviledges, due to His Crown but alſo to preſerve His People and Kingdome in peace and ſafety; and that His Subiects may alſo enioy their Religion Laws, Liberties Rights, and Priviledges due and belonging to them and their poſterities.</p>
+            <p>They obſerve likewiſe, That the Parliament in their Remon<g ref="char:EOLhyphen"/>ſtrances and Declarations publiſhed to the whole world, do profeſſe the very ſame thing to be their ends and intentions concerning His Maieſty his People and Kingdome: For which His Maieſties gra<g ref="char:EOLhyphen"/>tious expreſſions as they are bound to give His Maieſty moſt hum<g ref="char:EOLhyphen"/>ble thanks, ſo are they obliged in all duty and ſervice to thoſe Noble Gentlemen, and others of their own chuſing, not only for their long continued and unwearied paines for the good of His Maieſty, and this whole Kingdome: but alſo for their fidelity, wiſdome and care, ſo really expreſſed and performed in diſcharge of that great truſt they have committed to them being no leſſe then al that they and their poſterities have or are, and to be faithfull to them in obe<g ref="char:EOLhyphen"/>dience to all their lawfull commands tending to the good and ſafety of His Maieſties Royall perſon, and His Kingdome.</p>
+            <p>Theſe being the mutuall, and (they hope) reall intentions of His Maieſty and His Parliament concerning them, thus concurring in one, and publiſhed to the whole world ſo to be: never (ſay they) was any Kingdome neerer to confuſion (if not deſtruction) under a con<g ref="char:EOLhyphen"/>iuncture of ſo good intentions: And what Vipers, or rather what Devils are there upon the earth, that by wicked Councell would divide thoſe intentions, and bring deſolation upon this whole Kingdome; and what torments (leſſe then hell) doe ſuch men merit. But their hope and confidence is His Maieſties own goodneſſe and care of His people, ſo often expreſſed and publiſhed to the world, will be motive ſufficient to turne His eare from the Councells of ſuch wicked perſons, and to ioyne with His Parliament in purſuit of thoſe good intentions, and not for ſuch mens ſakes to expoſe His own Royall perſon to danger, and His people and Kingdome to ruine.</p>
+            <pb n="3" facs="tcp:197345:2"/>
+            <p>They further obſerve, That it pleaſeth His Maieſty in His De<g ref="char:EOLhyphen"/>clarations, to charge the cauſe of all unhappy differences betwixt His Maieſty and His Parliament, upon ſome few turbulent ambi<g ref="char:EOLhyphen"/>tious Factious ſpirits in both Houſes of Parliament (Members thereof) whoſe cunning conveyance and carriage of buſines in both Houſes, for their own ambitious ends and advantage, have procured ſo great a party in both Houſes, that their Votes are become the Parliament; and theſe men it is (ſaith His Maieſty) that make Or<g ref="char:EOLhyphen"/>ders and Ordinances, diſpleaſing to his Maieſtie being (as his Maie<g ref="char:EOLhyphen"/>ſty affirmeth) againſt the eſtabliſhed known Laws of the Land, and His Maieſties iuſt and Royall Prerogative, warranted by thoſe Lawes.</p>
+            <p>They obſerve alſo, That the Parliament declare the cauſe of thoſe differences to be a wicked and pernitious Councell about his Maieſty (who are ſeldome wanting about the Throne of the beſt and moſt pious Princes) being either Atheiſts, Papiſts, and Jeſuites, Delinquents, or men of deſperate Fortunes, engaged only to their own ends, though it prove the ruine both of King and Kingdome. And of neceſſity one of theſe two parties it muſt fall upon: for his Maieſties people doe well know the goodneſſe of his own diſ<g ref="char:EOLhyphen"/>poſition and inclination to his Subiects, manifeſted out of his Roy<g ref="char:EOLhyphen"/>all breſt in the beginning of His reigne, before this viperous brood had time to take hold of Him; and call to mind His gracious ex<g ref="char:EOLhyphen"/>preſſions and actions towards His Subiects in thoſe times: And alſo His Maieſties frequent proteſtations and imprecations made this preſent Parliament, of his Maieſties great care and good inten<g ref="char:EOLhyphen"/>tions to preſerve His people in peace, the true Proteſtant Religion, the Laws, Liberties and Priviledge of Parliament, from the leaſt change or violation; and therfore whatſoever the French Hiſtories have recorded and publiſhed, concerning congratulatory Letters, paſſed betwixt his Maieſty and the Pope of <hi>Rome,</hi> at His Maieſties being in <hi>Spaine,</hi> they dare not admit the leaſt thought of change or alteration to be in his Maieſties own breſt, but muſt caſt it upon one of the parties afore named.</p>
+            <p>And therfore, for appeaſing all differences, and prevention of all dangers, ready to fall upon his Maieſtie, and this whole Kingdome, His People doe moſt humbly deſire his Maieſty, to doe Himſelfe, and His Kingdome that right and iuſtice (which lies in His owne power to doe) by naming ſuch perſons (if any ſuch be) Members of
+<pb n="4" facs="tcp:197345:3"/>both or either Houſes of Parliament, as his Maieſty is informed are the Men, who draw all this feare of miſerie on his Maieſty and His Kingdome, that they may come to Tryall before the Parlia<g ref="char:EOLhyphen"/>ment in a Parliamentary way, and there receive iudgement and pu<g ref="char:EOLhyphen"/>niſhment (if they ſhalbe found guilty) or otherwiſe, their Accuſers, (who have ſo highly wronged his Maieſty, His Parliament, and People) may come to like tryall and receive ſuch puniſhment, as the iuſtice of that Court ſhall inflict upon them.</p>
+            <p>And for the ſame reaſons, they would alſo moſt humbly beſeech his Maieſty to name unto his Parliament, thoſe perſons neer about his Maieſty, who have been or are his Maieſties Councellors, in ex<g ref="char:EOLhyphen"/>pounding of Laws, framing, making and penning of Declarations, Proclamations, Meſſages and Paſſages, betwixt his Maieſty and his Parliament (for his Maieſty beſt knows who thoſe men are) and deliver them to the Parliament to iuſtifie their doings, which as it will moſt magnifie the honour of his Maieſty to the love of truth and iuſtice, ſo will it be the cleareſt manifeſtation His Maieſty can give of the reallity of his Royall intention to His people, and lay the greateſt obligation of duty love and obedience, upon them, and all good Subiects that his Mareſtie can expect from a loyall and true hearted people, which untill his Maieſty grant, their feares will keep them reſtleſſe.</p>
+            <p>Theſe moſt humble deſires, the Commons conceive to be ſo iuſt, equall, ſeaſonable and fuitable to his Maieſties gracious diſpoſition that in honour, and iuſtice, he will not deny them to His People, being (as they think) the moſt hopefull meanes under heaven to ſecure his Maieſty &amp; his people, from the approaching dangers and miſeries of a bloody Warre, and to ſettle a firme and laſting peace between his Maieſty, his Parliament and People, which is that his Maieſty hath ſo often taken the Almighty God to witneſſe, is the thing he ſo much deſires; wherein the Commons are confident and will expect, that the Lords and others of his Maieſties moſt honou<g ref="char:EOLhyphen"/>rable Privie Councell and all the Peers of this Realme, and others, attending his Maieſty, who deſire the ſafety, peace and proſperity of his Maieſty, his People and Kingdoms wil ioyn with them; and according to their relations offices, places, neerneſſe and credit with His Maieſty, will put forth their uttermoſt ſtrength, Counſells and indeavours to preferre and accompliſh theſe their humble d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſires to His Maieſty, otherwiſe they muſt think (as they may have iuſt
+<pb n="5" facs="tcp:197345:3"/>cauſe) they are of the Malignant party, more willing to behold all of them, and this whole Kingdome ſtreaming in blood, then relin<g ref="char:EOLhyphen"/>quiſh their owne pernitious Councels and ends, and be ready to execute the Commands of the Parliament againſt them.</p>
+            <p>The differences themſelves between His Maieſty, and His Parli<g ref="char:EOLhyphen"/>ament, in His Maieſties Declarations appeare to be Foure. Firſt, Detaining His Towne and Magazine of <hi>Hull.</hi> Secondly, removing the Magazine and Armes thence to other places, and the like in other parts of the Kingdome. Thirdly, Putting the Militia in exe<g ref="char:EOLhyphen"/>cution contrary to His Maieſties Proclamation. Fourthly, Making of Leavies, and raiſing of Men, Horſe and Money; And theſe all done by Orders and Ordinances of Par-liament, and (as His Ma<g ref="char:EOLhyphen"/>ieſties Declaration ſaith) againſt His Maieſties pleaſure, becauſe it is againſt the law, and His Maieſties Prerogative, warranted by the law.</p>
+            <p>The only queſtion then is, Whether theſe proceedings by both Houſes of Parliament in this time of danger (His Maieſtie having refuſed to ioyne with them) be againſt the fundamentall lawes of the Land, and His Maieſties Prerogative warranted by thoſe lawes, and above the power, and priviledge of Parliament to meddle in for the ſafety of his Maieſties Royall Perſon His Kingdome and people?</p>
+            <p>The Commons doe all know His Maieſtie to be no expounder of lawes (for ſo his Maieſtie is pleaſed to profeſſe) as belonging nei<g ref="char:EOLhyphen"/>ther to his Perſon, nor office, but therein to be guided by the iudge<g ref="char:EOLhyphen"/>ment and councells of others, to whom His Maieſtie doth com<g ref="char:EOLhyphen"/>mit that truſt, To give right iudgement betwixt His Maieſtie and people; and what Councellors his Maieſty hath had, and what ex<g ref="char:EOLhyphen"/>poſitions of Laws and Statutes have been made, during this pre<g ref="char:EOLhyphen"/>ſent Parliament; and how iniuriouſly His Maieſty, His Parliament and People, have been dealt with therein, is like to appeare in the Kingdomes confuſion, if His Maieſties goodneſſe and wiſdome, in caſting off ſuch Councells, and ſpeedy ioyning with his Parliament prevent it not.</p>
+            <p>And what ſervice ſuch evill Councellors have done to this King<g ref="char:EOLhyphen"/>dome in former <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, and what expoſition of Laws they have made, let the Petition of Right, granted by his Maieſtie to all his Subiects in eaſe of their Grievances witneſſe.</p>
+            <p>And what Councells they have given, and expoſſtion of Laws
+<pb n="6" facs="tcp:197345:4"/>they have made ſſnce that Petition granted, let <hi>Ship money</hi> coat, and <hi>Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auct money,</hi> and many other uniuſt and illegall impoſitions layed upon His Maieſties Subiects, and Declared in the Parliaments Re<g ref="char:EOLhyphen"/>monſtrances witneſſe alſo: And into what condition ſuch perni<g ref="char:EOLhyphen"/>tious Councells and Councellors, have brought this Kingdome and His Maieſties Kingdome of <hi>Ireland,</hi> at this preſent, let the con<g ref="char:EOLhyphen"/>ſuming flames in the one, and the kindled fire in the other teſtifie.</p>
+            <p>The Parliament, the Commons doe know, and their Councells, Votes, Ordinances, Expoſitions and Declarations to His Maieſtie, and his People, they heare and ſee atteſted under the authority of one or both Houſes, and therefore are bound in reaſon and duty to beleeve their Proceedings are warranted by the Fundamentall laws of the Land, and are according to the Power and Priviledge of Par<g ref="char:EOLhyphen"/>liament, untill the like or better authority appeare to the contrary. For thoſe who expound the Laws to his Maieſty and are his Coun<g ref="char:EOLhyphen"/>ſellors, they know not their Perſons or names, neither ſee their hands atteſting the Counſels they give, nor Expoſitions they make, which makes them ſuſpect they are Men of darkneſſe, and ſuch as flee from the light of Parliament. Wherefore it is the moſt hum<g ref="char:EOLhyphen"/>ble deſire of all His Maieſties good Subiects, that His Maieſtie will put no longer confidence in their Councels or expoſitions of Laws; but hearken to the adviſe of his great Councell the Parliament.</p>
+            <p>And whether it bee more meet, ſafe, iuſt and honourable, for his Maieſtie and his Subiects to put confidence in the Councells and iudgements of ſuch Councellors, and the expoſition they make of Lawes, and the Power and Priviledges of <hi>Parliament,</hi> or in the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> themſelves being the great Counſell of the Kingdome, and the makers of all Laws, the Commons beſeech His Maieſtie and all the World to iudge.</p>
+            <p>As it is farre from the heart of every good Subiect to diminiſh the leaſt part of His Maieſties Royall Prerogative, due by the Laws and Statutes of the Realme, being part of the inheritance of His Crowne and deſcended to His Maieſtie from His Royall Pro<g ref="char:EOLhyphen"/>genitors, Kings of this Realme, ſo are all Subiects bound to main<g ref="char:EOLhyphen"/>tain the Liberties, Rights and Priviledges, due and belonging to the Parliament and People of <hi>England,</hi> and the Lawes that defend and preſerve the ſame, the one as being the iuſt and undoubted inheri<g ref="char:EOLhyphen"/>tance of His Maieſtie, the other as their inheritance as iuſt and un<g ref="char:EOLhyphen"/>doubtedly due to themſelves &amp; their Poſterities, granted to their Pre<g ref="char:EOLhyphen"/>deceſſors
+<pb n="7" facs="tcp:197345:4"/>more then five hundred Years paſt conrfimed to their An<g ref="char:EOLhyphen"/>ceſtors in all ages and not queſtioned or attempted to be violated, untill of late by the wicked Councell, and fraud of ill Miniſters and Councellors (who for their owne ends, and to obtain the favour of Princes) have taken upon them the boldneſſe, to advance the Pre<g ref="char:EOLhyphen"/>rogative above Law, and endeavoured to bring the Lawes and the Power and Priviledges of Parliament, to ſuch conſtruction them<g ref="char:EOLhyphen"/>ſelves would make, thereby at once breaking in upon the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, and the inheritance of the Subiect, and ſo by pretence of Law, to root up the foundation of Law, the Parliament it ſelfe.</p>
+            <p>The Commons do therefore moſt humbly beſeech His Maieſtie that the diſtractions, griefes and feares, of ſo many thouſand thou<g ref="char:EOLhyphen"/>ſands of His Loyall Subiects layed before his Maieſty, in this time of danger may prevaile with His Maieſty ſpeedily to return to His Parliament, and there in the way of iuſtice to examine all miſin<g ref="char:EOLhyphen"/>formations his Maieſty hath had, both of Perſons and Cauſes; and let all Offenders whatſoever, taſt the ſeverity of his Maieſties iu<g ref="char:EOLhyphen"/>ſtice, who have been Counſellors, inſtruments, or actors, to make ſo great a breach betwixt His Maieſtie and His Parliament, and put his Kingdome and People into ſo much danger, and ſo many loſſes in their eſtates, by the long decay of their Trading in all parts, cau<g ref="char:EOLhyphen"/>ſed by thoſe diviſions.</p>
+            <p>For the tumults which His Maieſty ſeemeth to flee from, the Commons doubt not, His Maieſtie will find his Parliament, and all good Subiects, moſt willing to ſuppreſſe and puniſh, all unlawfull tumults and diſorders cauſed by any Perſons whatſoever, when it ſhall pleaſe His Maieſty to ioyne with his Parliament, in ſecuring this and His other Kingdomes from the plots and deſignes of Je<g ref="char:EOLhyphen"/>ſuites, Papiſts and other inſtruments of theirs, whoſe worke it is now to diſturbe the peace of his Maieſties Dominions, for preſer<g ref="char:EOLhyphen"/>vation of their Spaniſh Monarchy, and Popiſh Tyranny, by ſup<g ref="char:EOLhyphen"/>preſſing or deſtroying of Prince, Parliament and People, that ſtand in their way: For the Commons would that all the world ſhould know They are Engliſh Proteſtants, whoſe Religion is not founded either upon Superſtirious Vanities, or Schiſmaticall Fancies, but upon the revealed will<g ref="char:punc">▪</g> and well warranted word of God conſonant to the ſound and Orthodoxe Doctrine of the Church of <hi>England,</hi> whereunto They will allwayes ſubmit, provided it may be purged
+<pb n="8" facs="tcp:197345:5"/>from what gives iuſt occaſion of ſcandall or offence; and not ſo mixed or adorned with Rights and Ceremonies, that whileſt the Body is dreſt, the Soule of Religion, which is life and power, ſhould be loſt: <hi>For God is a Spirit, and will be worſhiped in Spirit and in Truth,</hi> which is the Freedome they aske; without which, the Proteſtant Religion is but Proteſtant Profeſſion, will make men but ſeeming Saints, while Devils, and ſet them but half the way to Heaven.</p>
+            <div type="note">
+               <p>And if His Majeſtie ſhall not be pleaſed to hear<g ref="char:EOLhyphen"/>ken to theſe moſt humble deſires of His People, and make ſome preſent returne for putting out thoſe Fires now kindled in this Kingdome, the wofull ſpectacle of their poore Brethren in <hi>Ireland,</hi> will cauſe Them, (all that are able) to joyne with his Parliament in obedience to their Commands, for the preſervation of his Majeſty, his Kingdome and themſelves from utter Ruine, nature it ſelfe having taught Beaſts, when ſtormes are riſing to provide for their owne ſafetie. But in hope of His Maieſties gracious Anſwer, they will waite and pray for the long life, and happie, and peaceable Reigne of his <hi>Majeſtie.</hi>
+               </p>
+            </div>
+            <trailer>FINJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
